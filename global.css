@@ -1,0 +1,14 @@
+body {
+  background-color: var(--black-color);
+  color: var(--white-color);
+  font-family: "Manrope";
+}
+a {
+  text-decoration: none;
+}
+li {
+  text-decoration: none;
+}
+.a {
+  text-decoration: none;
+}
